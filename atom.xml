@@ -9,7 +9,24 @@
   <link href="https://chenyu-li02.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, Oklong81</rights>
   <title>Oklong81's Blog</title>
-  <updated>2026-08-13T10:58:06.704Z</updated>
+  <updated>2026-08-13T11:04:11.282Z</updated>
+  <entry>
+    <author>
+      <name>Oklong81</name>
+    </author>
+    <category term="备忘录" scheme="https://chenyu-li02.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    <content>
+      <![CDATA[<p>hexo new “ “ -&gt; 创建标题为””的新文章<br>hexo generate -&gt; 生成静态文件到public&#x2F;目录<br>hexo server -&gt; 启动本地预览服务器(localhost:4000)<br>hexo clean -&gt; 清除缓存和已经生成的静态文件<br>hexo deploy -&gt; 部署到远程仓库</p>]]>
+    </content>
+    <id>https://chenyu-li02.github.io/2026/08/13/hexo%E6%8C%87%E4%BB%A4%E9%98%B2%E5%BF%98%E8%A1%A8/</id>
+    <link href="https://chenyu-li02.github.io/2026/08/13/hexo%E6%8C%87%E4%BB%A4%E9%98%B2%E5%BF%98%E8%A1%A8/"/>
+    <published>2026-08-13T11:59:33.000Z</published>
+    <summary>
+      <![CDATA[<p>hexo new “ “ -&gt; 创建标题为””的新文章<br>hexo generate -&gt; 生成静态文件到public&#x2F;目录<br>hexo server -&gt; 启动本地预览服务器(localhost:4000)<br>hexo clean]]>
+    </summary>
+    <title>hexo指令防忘表</title>
+    <updated>2026-08-13T11:04:11.282Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Oklong81</name>

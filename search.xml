@@ -96,6 +96,15 @@
       </tags>
   </entry>
   <entry>
+    <title>hexo指令防忘表</title>
+    <url>/2026/08/13/hexo%E6%8C%87%E4%BB%A4%E9%98%B2%E5%BF%98%E8%A1%A8/</url>
+    <content><![CDATA[<p>hexo new “ “ -&gt; 创建标题为””的新文章<br>hexo generate -&gt; 生成静态文件到public&#x2F;目录<br>hexo server -&gt; 启动本地预览服务器(localhost:4000)<br>hexo clean -&gt; 清除缓存和已经生成的静态文件<br>hexo deploy -&gt; 部署到远程仓库</p>
+]]></content>
+      <tags>
+        <tag>备忘录</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我自愿沉沦信息茧房</title>
     <url>/2026/06/13/%E6%88%91%E8%87%AA%E6%84%BF%E6%B2%89%E6%B2%A6%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF/</url>
     <content><![CDATA[<p>我有一个习惯，就是在忙碌过后抱着“休息一会儿吧”的心态打开短内容软件，之后便十有八九陷入到无法自拔的境地中，忘记了时间，把“一会儿”变成几小时。然后在沉浸其中的某一个瞬间幡然醒悟，因痛恨自己过长的休息时间挤压了做正常任务的时间而焦虑。这个事情循环往复，到现在依然没有被彻底解决。每当我忙碌或骗自己刚忙碌完之后，便开始此循环。这几天看到了一个课堂提问：“是推荐算法导致了信息茧房吗？”让我把这个问题和我这个习惯联系在了一起。</p>
